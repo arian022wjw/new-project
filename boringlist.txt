@@ -1,0 +1,5 @@
+computer 
+phone
+remote
+speaker
+dslr
